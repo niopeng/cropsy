@@ -1,0 +1,5 @@
+{
+  "name": "Local Image Cropper",
+  "description": "A local tool to batch crop images using a customizable bounding box. Supports folder selection, visual editing, and bulk export.",
+  "requestFramePermissions": []
+}
